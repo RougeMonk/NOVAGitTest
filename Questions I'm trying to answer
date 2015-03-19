@@ -1,0 +1,11 @@
+1.  I've written two basic java programs in netbeans entitled Lion-and-Lamb, and JackFrostNipping.  How do I commit to branches 
+  via git bash?  
+  
+2.  I created two text files with touch command.  One entitled, "diamond.txt" the other, "seasons.txt".  If they appear along with 
+  many numerous other files within that branch after issuing the ls command, how do I only push the single file to the desired 
+  branch?
+
+3.  I downloaded PyCharm.  It asks for an interpeter, what does this mean?  Again, as the same with the java programs, how do I 
+  commit the programs to GitHub repo via git bash?
+  
+  
