@@ -18,4 +18,5 @@ are commited to the branch.
 
 4. rm. removes a file in a branch that hasn't been committed.
 
-5. 
+5. cp --------------------------------------------------------------- path --------------------------------------  . (dot means in current directoryy)
+  ~(tilda) home directory of current user
