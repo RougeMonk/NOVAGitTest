@@ -14,7 +14,7 @@ are commited to the branch.
 
 2. mkdir.  pwd.(tells you which directory you are in).  rmdir.(removes directories if empty).
 
-3. git diff. 
+3. git diff. git diff --cached.  (VIM -adventures.com)
 
 4. rm. removes a file in a branch that hasn't been committed.
 
