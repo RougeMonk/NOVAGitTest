@@ -16,6 +16,6 @@ are commited to the branch.
 
 3. git diff. 
 
-4. rm. removes a file in a branch that hasn't been commited.
+4. rm. removes a file in a branch that hasn't been committed.
 
 5. 
