@@ -21,7 +21,7 @@ are commited to the branch.
 5. cp --------------------------------------------------------------- path --------------------------------------  . (dot means in current directoryy)
   ~(tilda) home directory of current user
 
-6. Its best to use linux for python. (interpreter) (M. Gallagher).
+6. Its best to use linux for python. (interpreter) (M. Gallagher).  Windows "adds complexities".  What these complexities are?
 
 7.  I created a branch called "olive", immediately - all the files of the other branches were populated into the branch.  I did not intend for this to 
     happen.  Tip: A branch is a "snapshot" of your working directory.  It will eventually be merged back into master once you
