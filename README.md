@@ -10,4 +10,6 @@
     git log
     git cache
     git diff
+    pwd
+    
     
