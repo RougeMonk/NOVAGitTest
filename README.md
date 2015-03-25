@@ -9,7 +9,7 @@
     git status
     git log
     git diff
-    git diff cache
+    git diff --cached
     pwd
     
     
