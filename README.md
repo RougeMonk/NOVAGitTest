@@ -8,8 +8,8 @@
     git push
     git status
     git log
-    git cache
     git diff
+    git diff cache
     pwd
     
     
