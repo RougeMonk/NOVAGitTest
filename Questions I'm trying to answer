@@ -26,3 +26,5 @@ are commited to the branch.
 7.  I created a branch called "olive", immediately - all the files of the other branches were populated into the branch.  I did not intend for this to 
     happen.  Tip: A branch is a "snapshot" of your working directory.  It will eventually be merged back into master once you
     are satisfied with the changes.  Its not used for just storing files.  
+
+8. What is "cherry picking"?
